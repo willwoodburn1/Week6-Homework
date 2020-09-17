@@ -1,0 +1,72 @@
+.jumbotron {
+    background-color: rgb(37, 35, 35);
+}
+
+.display-4 {
+    color: white;
+}
+
+.dataDiv {
+    position: fixed;
+    border: 2px solid grey;
+    left: 500px;
+    top: 220px;
+    padding: 30px;
+    
+}
+
+.fiveDayBoxes {
+    position: fixed;
+    left: 500px;
+    top: 470px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+  
+    
+}
+
+.daysBoxes {
+    border: 1px solid orange;
+    float: left;
+    margin-left: 50px;
+    padding: 60px;
+   
+}
+
+.sideContent {
+    position: fixed;
+    top: 203px;
+    padding-top: 50px;
+    padding-bottom: 350px;
+    background-color: rgb(219, 216, 216);
+}
+
+#searchSubmitButton {
+    color: white;
+    background-color: blue;
+}
+
+.cityClick {
+    color: black;
+    border: transparent;
+    background-color: white;
+    width: 440px;
+    text-align: left;
+
+}
+
+.db {
+    border: 1px solid blue;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 300px;
+    margin-right: 30px;
+    background-color: blue;
+    color: white;
+    size: 14px;
+}
+
+h5 {
+    color: orange;
+}
